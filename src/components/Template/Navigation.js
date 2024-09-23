@@ -23,7 +23,7 @@ const Navigation = () => (
             </li>
           ))} */}
         <li key="Resume">
-          <a href={`${PUBLIC_URL}/JohnHuangResume.jpg`} alt="John Huang Resume" target="_blank" rel="noreferrer">Resume</a>
+          <a href={`${PUBLIC_URL}/JohnHuangResume.pdf`} alt="John Huang Resume" target="_blank" rel="noreferrer">Resume</a>
         </li>
         <li key="Projects">
           <Link to="/projects">Projects</Link>
